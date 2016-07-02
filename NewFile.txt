@@ -1,3 +1,6 @@
 cd Documents/first_git_project/
 git init
 ls -la
+git add.
+git commit -m "Comment"
+_
